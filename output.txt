@@ -1,0 +1,9 @@
+This is my output file
+These are my values
+2
+8
+6
+3
+10
+4
+5
